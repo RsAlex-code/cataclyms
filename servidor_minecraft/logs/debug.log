@@ -699,3 +699,15 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 23:27:57.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 23:27:57.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Dec2024 23:29:11.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[08Dec2024 23:32:57.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 23:32:57.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 23:33:18.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: alexwhis has made the advancement [Monster Hunter]
+[08Dec2024 23:37:57.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 23:37:57.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 23:38:41.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexwhis moved too quickly! -5.008460891496558,2.152074721012127,9.340793881179884
+[08Dec2024 23:38:49.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[08Dec2024 23:38:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[08Dec2024 23:39:03.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[08Dec2024 23:39:09.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> no mames we
+[08Dec2024 23:41:07.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[08Dec2024 23:41:34.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
