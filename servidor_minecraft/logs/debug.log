@@ -748,3 +748,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 23:50:19.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> s
 [08Dec2024 23:51:10.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: alexwhis moved too quickly! 4.6036290976596135,-1.3610764879868498,-8.821459194634727
 [08Dec2024 23:51:21.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> asd}asd
+[08Dec2024 23:52:57.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 23:52:57.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 23:55:13.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> oajsfioh
+[08Dec2024 23:55:51.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexwhis: Set the time to 1000]
+[08Dec2024 23:57:28.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [alexwhis: Showing new title for alexwhis]
+[08Dec2024 23:57:57.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 23:57:57.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 00:01:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[09Dec2024 00:01:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> dean
