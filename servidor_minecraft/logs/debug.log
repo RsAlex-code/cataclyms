@@ -757,3 +757,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 23:57:57.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Dec2024 00:01:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
 [09Dec2024 00:01:51.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> dean
+[09Dec2024 00:02:57.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:02:57.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Dec2024 00:07:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <alexwhis> a
+[09Dec2024 00:07:57.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Dec2024 00:07:57.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
